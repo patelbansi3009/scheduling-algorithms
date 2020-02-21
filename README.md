@@ -16,6 +16,6 @@ All the code are written in C Language.
   
   6.Shortest Job First
   
-  7.Shortest Remaining TIme First
+  7.Shortest Remaining Time First
   
  
