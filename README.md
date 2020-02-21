@@ -2,7 +2,7 @@
 Basic Scheduling Algorithms of Operating System.
 All the code are written in C Language.
 
-The Uploaded Algorithms Are:
+#The Uploaded Algorithms Are:
 
   1.First Come First Serve
   
